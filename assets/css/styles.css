@@ -778,7 +778,7 @@ img {
   }
 
   .nav__list a:hover{
-    color: var(--first-color);
+    color: var(--title-color)
     transition: color .4s;
   }
 
@@ -798,7 +798,7 @@ img {
 
   .home__img{
     max-width: initial;
-    width: 550px;
+    width: 400px;
   }
 
   .home__location i {
